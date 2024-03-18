@@ -1,0 +1,21 @@
+name,arousal,valence,z
+Happy,0.9946,0.1037,0.0
+Sad,-0.4563,-0.2044,-0.866
+Surprise,0.2462,0.9692,0.0
+Fear,-0.0872,0.4923,0.866
+Disgust,-0.8298,0.5581,0.0
+Anger,-0.6249,0.7807,0.0
+Happily sad,0.0889,-0.331,-0.9394
+Happily surprised,0.7564,0.6541,0.0
+Happily fearful,0.508,0.674,0.5363
+Happily disgusted,-0.2416,-0.9704,0.0
+Sadly fearful,-0.8836,0.4682,0.0
+Sadly angry,-0.6555,0.1585,-0.7384
+Sadly surprised,-0.3437,0.2891,-0.8935
+Sadly disgusted,-0.7079,0.0606,-0.7037
+Fearfully angry,-0.3075,0.6792,0.6664
+Fearfully surprised,0.0275,0.748,0.6631
+Fearfully disgusted,-0.3973,0.6104,0.6853
+Angrily surprised,-0.2115,0.9774,0.0
+Angrily disgusted,-0.7358,0.6772,0.0
+Neutral,0.0,0.0,0.0
